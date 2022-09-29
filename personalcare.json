@@ -1,0 +1,28 @@
+[
+{
+    "prod_id":1,
+    "prod_name":"The Face Shop Herb Day 365 Master Blending Foaming Cleanser Acerola & Blueberry- 170 Ml",
+    "prod_img":"",
+    "old_price":590,
+    "new_price":513.3,
+    "offer":13,
+    "flavour":[
+        {
+            "flavour_name":"Aloe and Green Tea",
+            "flavour_id":1,
+            "flavour_image":"https://i.ibb.co/p4M1WGN/aloe.webp"
+        },
+        {
+            "flavour_name":"BlueBerry",
+            "flavour_id":2,
+            "flavour_image":"https://i.ibb.co/0m6rkrZ/thefaceshop-Herb-DAy.webp"
+        },
+        {
+            "flavour_name":"",
+            "flavour_id":3,
+            "flavour_image":"https://i.ibb.co/tpymGyJ/lemon.webp"
+        }
+    ]
+    
+}
+]

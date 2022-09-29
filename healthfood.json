@@ -1,0 +1,643 @@
+[
+    
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":20,
+            "brand_name":"Horlicks",
+            "product_id":41,
+            "product_name":"Horlicks Health & Nutrition Drink Jar, 500 G",
+            "old_price":"",
+            "new_price":265,
+            "offer":"",
+            "ratings":1454,
+            "variant":{
+                "flavour":[],
+                "packsize":["200gm","500gm"],
+                "age":[]
+            },
+            
+            "product_img":[
+                "https://i.postimg.cc/7hdYY32N/horlicks2.webp",
+                "https://i.postimg.cc/jSdt03mr/horlicks3.webp",
+                "https://i.postimg.cc/1zqdLpmQ/horlicks4.webp",
+                "https://i.postimg.cc/htHybf93/horlicks5.webp",
+                "https://i.postimg.cc/Vsp7nKXW/horlics1.webp"
+                
+              
+    
+            ]
+        },
+
+          
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":20,
+            "brand_name":"Horlicks",
+            "product_id":42,
+            "product_name":"Horlicks Health & Nutrition Drink Refill, 500 G",
+            
+            "old_price":"",
+            "new_price":275,
+            "offer":"",
+            "ratings":144,
+            "variant":{
+                "flavour":["Chocolate","ClassicMalt","RegularMalt"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+                "https://i.postimg.cc/d1g6Y0BT/hor1.webp",
+                "https://i.postimg.cc/d1CdGj2L/hor2.webp",
+                "https://i.postimg.cc/YCjv1xkM/hor3.webp",
+                "https://i.postimg.cc/dtbbBsc3/hor5.webp",
+                "https://i.postimg.cc/QMXn4V48/hor7.webp",
+                "https://i.postimg.cc/4ytDCqzs/hor6.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":4,
+            "brand_name":"Liveasy",
+            "product_id":43,
+            "product_name":"Liveasy Wellness Diabetic Protein - Blood Sugar & Weight Management",
+
+            
+            "old_price":999,
+            "new_price":890,
+            "offer":10,
+            "ratings":24,
+            "variant":{
+                "flavour":["Chocolate","French-Vanilla"],
+                "packsize":["400gm","1000gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+              "https://i.postimg.cc/Hxhm1Fjh/livd1.webp",
+              "https://i.postimg.cc/vZ0bv1by/livd2.webp",
+              "https://i.postimg.cc/dtWxHGk5/livd3.webp",
+              "https://i.postimg.cc/rwBg3j8N/livd4.webp",
+              "https://i.postimg.cc/rwBg3j8N/livd4.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":20,
+            "brand_name":"Horlicks",
+            "product_id":44,
+            "product_name":"Horlicks Health & Nutrition Drink Jar",
+            
+            "old_price":"",
+            "new_price":499,
+            "offer":"",
+            "ratings":385,
+            "variant":{
+                "flavour":[],
+                "packsize":["jar","refill"],
+                "age":[]
+            },
+            "product_img":[
+           "https://i.postimg.cc/QMrNCL89/horj1.webp",
+           "https://i.postimg.cc/j2nBy5vs/horj2.webp",
+           "https://i.postimg.cc/hGjnfSFG/horj3.webp",
+           "https://i.postimg.cc/0QsCVN8k/horj5.webp",
+           ""
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":20,
+            "brand_name":"Horlicks",
+            "product_id":45,
+            "product_name":"Horlicks Lite Malt",
+            
+            "old_price":345,
+            "new_price":320,
+            "offer":7,
+            "ratings":144,
+            "variant":{
+                "flavour":["Chocolate","ClassicMalt","RegularMalt"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+                "https://i.postimg.cc/RFG4FNhq/horlicsmalt.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":21,
+            "brand_name":"Complan",
+            "product_id":46,
+            "product_name":"Complan Nutrition And Health Drink",
+            
+            "old_price":289,
+            "new_price":246,
+            "offer":14,
+            "ratings":14,
+            "variant":{
+                "flavour":["CreamyClassic ","Kesar Badam","PestaBadam"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+               "https://i.postimg.cc/1z8v4zHM/complan1.webp",
+               "https://i.postimg.cc/9MjyVXND/complan2.webp",
+               "https://i.postimg.cc/bwtGJcnk/complan3.webp",
+               "https://i.postimg.cc/MKcHP2dN/complan4.webp",
+               "https://i.postimg.cc/c4Yg1GwY/complant.webp",
+               "https://i.postimg.cc/fWSk5QHF/complan6.webp",
+               "https://i.postimg.cc/vmDGB5kj/complan7.webp"
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":22,
+            "brand_name":"Ensure",
+            "product_id":47,
+            "product_name":"Ensure Vanilla Nutrition Drink Refill",
+            
+            "old_price":"",
+            "new_price":1250,
+            "offer":"",
+            "ratings":1424,
+            "variant":{
+                "flavour":["Chocolate","Vanilla"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+              "https://i.postimg.cc/t4GjbLNs/ens1.webp",
+              "https://i.postimg.cc/c4yx1gs1/ens2.webp",
+              "https://i.postimg.cc/hvn56BBn/ens3.webp",
+              "https://i.postimg.cc/dVgngY2f/ens4.webp",
+              "https://i.postimg.cc/T1HnmVQs/ens7.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":21,
+            "brand_name":"Complan",
+            "product_id":48,
+            "product_name":"Complan Nutrition And Health Drink",
+            
+            "old_price":305,
+            "new_price":289,
+            "offer":5,
+            "ratings":444,
+            "variant":{
+                "flavour":["Creamyclassic","PestaBadam","Kesar Badam","Rayale chocolate"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+                "https://i.postimg.cc/pTtDfQ8G/comm1.webp",
+                "https://i.postimg.cc/9MjyVXND/complan2.webp",
+                "https://i.postimg.cc/bwtGJcnk/complan3.webp",
+                "https://i.postimg.cc/MKcHP2dN/complan4.webp",
+                "https://i.postimg.cc/Vv91SwwZ/comm5.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":23,
+            "brand_name":"Cadbury",
+            "product_id":49,
+            "product_name":"Cadbury Bournvita Nutrition Drink",
+            
+            "old_price":"",
+            "new_price":223,
+            "offer":"",
+            "ratings":222,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+               "https://i.postimg.cc/N0LdLxtW/bor1.webp",
+               "https://i.postimg.cc/zX0wWRx5/bor2.webp",
+               "https://i.postimg.cc/5tcXF4Wb/bor3.webp",
+               "https://i.postimg.cc/bJyNQdCc/bor5.webp",
+               "https://i.postimg.cc/T3QRTT2t/bor6.webp"
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":201,
+            "subcategory_name":"Nutritional Drinks",
+            "brand_id":20,
+            "brand_name":"Horlicks",
+            "product_id":50,
+            "product_name":"Horlicks Health & Nutrition Drink Refill, 500 G",
+            
+            "old_price":"",
+            "new_price":275,
+            "offer":"",
+            "ratings":144,
+            "variant":{
+                "flavour":["Chocolate","ClassicMalt","RegularMalt"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+                "https://i.postimg.cc/d1g6Y0BT/hor1.webp",
+                "https://i.postimg.cc/d1CdGj2L/hor2.webp",
+                "https://i.postimg.cc/YCjv1xkM/hor3.webp",
+                "https://i.postimg.cc/dtbbBsc3/hor5.webp",
+                "https://i.postimg.cc/QMXn4V48/hor7.webp",
+                "https://i.postimg.cc/4ytDCqzs/hor6.webp"
+            
+                
+              
+    
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":23,
+            "brand_name":"Threptin",
+            "product_id":51,
+            "product_name":"Threptin Vanilla Butterscotch Nutrition Diskettes Tin",
+            
+            "old_price":450,
+            "new_price":380,
+            "offer":10,
+            "ratings":44,
+            "variant":{
+                "flavour":["Chocolate","Vanillabutterscotch"],
+                "packsize":["200gm","400gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+                "https://i.postimg.cc/x1N6M0n9/threp1.webp",
+                "https://i.postimg.cc/Dy9rV13K/threptin2.webp",
+                "https://i.postimg.cc/153m9dPG/threptin3.webp",
+                "https://i.postimg.cc/Y90R2knc/threptin4.webp",
+                "https://i.postimg.cc/9XR3JjWN/threptin5.webp",
+                "https://i.postimg.cc/ZRXM1CTs/threptin6.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":23,
+            "brand_name":"Threptin",
+            "product_id":52,
+            "product_name":"Threptin Chocolate Nutrition Diskettes Tin",
+            
+            "old_price":465,
+            "new_price":381,
+            "offer":16,
+            "ratings":644,
+            "variant":{
+                "flavour":["Chocolate","Vanilla butterscotch"],
+                "packsize":["200gm","500gm","750gm"],
+                "age":["8-15","18-35"]
+            },
+            "product_img":[
+                "https://i.postimg.cc/x1N6M0n9/threp1.webp",
+                "https://i.postimg.cc/Dy9rV13K/threptin2.webp",
+                "https://i.postimg.cc/153m9dPG/threptin3.webp",
+                "https://i.postimg.cc/Y90R2knc/threptin4.webp",
+                "https://i.postimg.cc/9XR3JjWN/threptin5.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":4,
+            "brand_name":"Liveasy",
+            "product_id":53,
+            "product_name":"Liveasy Wellness Apple Cider Vinegar With Mother -Improves Metabolism",
+            
+            "old_price":649,
+            "new_price":594,
+            "offer":10,
+            "ratings":64,
+            "variant":{
+                "flavour":[],
+                "packsize":[]
+            },
+            "product_img":[
+
+                   "https://i.postimg.cc/xqVTTfPt/vanila1.webp",
+                   "https://i.postimg.cc/B6yTqVwM/vanila2.webp",
+                   "https://i.postimg.cc/BbmGL2HY/vanila3.webp" 
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":4,
+            "brand_name":"Liveasy",
+            "product_id":54,
+            "product_name":"Liveasy Wellness Daily Protein - Provides Energy & Vitality",
+            
+            "old_price":899,
+            "new_price":449,
+            "offer":50,
+            "ratings":544,
+            "variant":{
+                "flavour":[],
+                "packsize":["400gm","500gm"],
+                "age":[]
+            },
+            "product_img":[
+             "https://i.postimg.cc/nc8DL70V/1liv1.webp",
+             "https://i.postimg.cc/B6KvW7WT/1liv2.webp",
+             "https://i.postimg.cc/Yqpt8CSf/1liv3.webp",
+             "https://i.postimg.cc/RhS21qTW/1liv4.webp",
+             "https://i.postimg.cc/sghHhpRn/1liv5.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":4,
+            "brand_name":"Liveasy",
+            "product_id":55,
+            "product_name":"Liveasy Foods Roasted Peri Peri Makhana - Rich In Protein & Fibre - Assists Weight Loss",
+            
+            "old_price":299,
+            "new_price":149,
+            "offer":50,
+            "ratings":36,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+              "https://i.postimg.cc/15JMVJTc/1liv6.webp",
+              "https://i.postimg.cc/d0T9Xv04/1liv7.webp",
+              "https://i.postimg.cc/fWvf18wn/1liv8.webp"
+
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":24,
+            "brand_name":"Bagrrys",
+            "product_id":56,
+            "product_name":"Bagrrys Swiss Style Muesli 500 Gm Box",
+            
+            "old_price":340,
+            "new_price":280,
+            "offer":15,
+            "ratings":24,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+             "https://i.postimg.cc/CK3HjtSX/bag1.webp",
+             "https://i.postimg.cc/Mp4yS4MH/bag2.webp",
+             "https://i.postimg.cc/HLwjhPbf/bag3.webp",
+             "https://i.postimg.cc/RFCCbCSH/bag4.webp",
+             "https://i.postimg.cc/GpKdY0Fh/bag6.webp",
+             "https://i.postimg.cc/VLtwg0qh/bag7.webp",
+             "https://i.postimg.cc/x100dTmF/bag8.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":25,
+            "brand_name":"Heka Bites",
+            "product_id":57,
+            "product_name":"Heka Bites Premium Raw Chia Seeds(250g)| Weight Loss | Omega 3 & Calcium | Healthy & Diabetic Snacks",
+            
+            "old_price":300,
+            "new_price":165,
+            "offer":45,
+            "ratings":23,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+              "https://i.postimg.cc/1Rr56jQd/1heka1.webp",
+              "https://i.postimg.cc/BbpKVZ1L/1heka2.webp",
+              "https://i.postimg.cc/4dTH4H6H/1heka3.webp",
+              "https://i.postimg.cc/NFsymhPg/1heka4.webp",
+              "https://i.postimg.cc/pVC5xTpy/1heka5.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":26,
+            "brand_name":"Grd Bix",
+            "product_id":58,
+            "product_name":"Grd Bix Cardamom Nutrition Biscuits Tin Of 250 G",
+            
+           
+            
+            "old_price":440,
+            "new_price":334,
+            "offer":24,
+            "ratings":134,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+              "https://i.postimg.cc/3w6522SW/grd-bix-cardamom-nutrition-biscuits-tin-of-250-g-2-1654166980.webp" 
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":24,
+            "brand_name":"Bagrrys",
+            "product_id":59,
+            "product_name":"Bagrrys Granola Belgian Dark Chocolate & Almonds 400 Gm",
+            
+            "old_price":349,
+            "new_price":249,
+            "offer":25,
+            "ratings":44,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+                "https://i.postimg.cc/KzJ9nbvf/1bag1.webp",
+                "https://i.postimg.cc/4dL5Y1BF/1bag2.webp",
+                "https://i.postimg.cc/VkqWqwKt/1bag3.webp",
+                "https://i.postimg.cc/YC7MnNzP/1bag4.webp",
+                "https://i.postimg.cc/JzYYDM0Q/1bag5.webp"
+            
+                
+              
+    
+            ]
+        },
+        {
+            "category_id":2,
+            "category_name":"Health Food And Drinks",
+            "subcategory_id":202,
+            "subcategory_name":"Health Food",
+            "brand_id":27,
+            "brand_name":"Kapiva",
+            "product_id":60,
+            "product_name":"Kapiva Ginger Burst Honey Jar Of 250 G",
+            
+            "old_price":299,
+            "new_price":269,
+            "offer":10,
+            "ratings":24,
+            "variant":{
+                "flavour":[],
+                "packsize":[],
+                "age":[]
+            },
+            "product_img":[
+            "https://i.postimg.cc/bJdhSpQ0/1kap1.webp",
+            "https://i.postimg.cc/JhZTTgRw/1kap2.webp",
+            "https://i.postimg.cc/Ss4gHrKn/1kap3.webp",
+            "https://i.postimg.cc/dVTn1Xk7/1kap4.webp",
+            "https://i.postimg.cc/q7Tc77HY/1kap5.webp"
+            
+                
+              
+    
+            ]
+        }
+    
+]

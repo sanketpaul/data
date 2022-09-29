@@ -1,0 +1,65 @@
+[
+    {
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "category_id":1
+    },
+    {
+        "subcategory_id":102,
+        "subcategory_name":"Appliances",
+        "category_id":1
+    },
+    {
+        "subcategory_id":103,
+        "subcategory_name":"Women Care",
+        "category_id":1
+    },
+    {
+    
+        "subcategory_id":104,
+        "subcategory_name":"Oral Care",
+        "category_id":1
+        
+    },
+    {
+        "subcategory_id":105,
+        "subcategory_name":"Male Groming",
+        "category_id":1
+    },
+
+    
+
+
+
+
+
+
+
+
+
+    {
+        "subcategory_id":201,
+        "subcategory_name":"Nutritional Drinks",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":202,
+        "subcategory_name":"Health Food",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":203,
+        "subcategory_name":"Diabetic Care",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":204,
+        "subcategory_name":"Beverages",
+        "category_id":2
+        
+    }
+
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "category_image":"https://i.postimg.cc/k5g5syBZ/category1.webp"
+       
+        
+    },
+    {
+        "category_id":2,
+        "category_name":"Health Food And Drinks",
+        "category_image":"https://i.postimg.cc/mDdCVDL3/healthfoodanddrinks.webp"
+        
+    },
+    {
+        "category_id":3,
+        "category_name":"Beauty",
+        "category_image":"https://i.postimg.cc/mDTvfTv6/beauty.webp"
+
+    },
+    {
+        "category_id":4,
+        "category_name":"Skin Care",
+        "category_image":"https://i.postimg.cc/nVGvhp6G/skincare.webp"
+    },
+    {
+        "category_id":5,
+        "category_name":"Home Care",
+        "category_image":"https://i.postimg.cc/L4g8xTVY/Home-Care.webp"
+    }
+
+]

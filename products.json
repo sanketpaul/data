@@ -1,0 +1,882 @@
+[
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":1,
+        "brand_name":"Becozyme C forte",
+        "product_id":1,
+        "product_name":"Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+        "old_price":25,
+        "new_price":23,
+        "offer":8,
+        "ratings":1394,
+        "product_img":[
+            "https://i.postimg.cc/nhJ1ngg9/becozym-c-forte.webp",
+            "https://i.postimg.cc/NjTyN0jW/boc-back.webp",
+            "https://i.postimg.cc/W4xTxGY8/bcz-strip.webp"
+
+
+        ]
+    },
+    
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":2,
+        "brand_name":"Revital",
+        "product_id":2,
+        "product_name":"Revital H men Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 30 Tablets",
+        "old_price":360,
+        "new_price":306,
+        "offer":15,
+        "ratings":518,
+        "product_img":[
+            "https://i.postimg.cc/cHYX0300/rev-back.webp",
+            "https://i.postimg.cc/QNJJmhM4/revcap.webp",
+            "https://i.postimg.cc/k4nBg3dG/revital-bot.webp",
+            "https://i.postimg.cc/85KPk7HX/revitalhwomen.webp"
+
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":2,
+        "brand_name":"Pharmeasy",
+        "product_id":3,
+        "product_name":"Pharmeasy Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+        "old_price":699,
+        "new_price":419,
+        "offer":40,
+        "ratings":34,
+        "product_img":[
+            "https://i.postimg.cc/52yc1sGJ/pharm1.webp",
+            "https://i.postimg.cc/V6BZXtT4/pharm2.webp",
+            "https://i.postimg.cc/BQtNnRqm/pharm3.webp"
+
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":2,
+        "brand_name":"Pharmeasy",
+        "product_id":4,
+        "product_name":"Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy (30 Capsules)",
+        "old_price":550,
+        "new_price":467,
+        "offer":15,
+        "ratings":788,
+        "product_img":[
+            "https://i.postimg.cc/X7CWyHLg/rev1.webp",
+            "https://i.postimg.cc/wTQpVyKt/rev2.webp",
+            "https://i.postimg.cc/63ZsGTLp/rev3.webp"
+          
+
+         ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":3,
+        "brand_name":"Liveasy",
+        "product_id":5,
+        "product_name":"Liveasy Wellness Calcium, Magnesium, Vitamin D3 & Zinc - Bones & Dental Health - Bottle 60 Tabs",
+        "old_price":599,
+        "new_price":569,
+        "offer":5,
+        "ratings":381,
+        "product_img":[
+          "https://i.postimg.cc/CKkTRz4L/live1.webp",
+          "https://i.postimg.cc/BbhRrDJN/liv2.webp"
+
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":5,
+        "brand_name":"Calcimax",
+        "product_id":6,
+        "product_name":"Calcimax 500 Health Supplement Tablets (500 Mg Of Calcium) Box Of 30",
+        "old_price":380,
+        "new_price":304,
+        "offer":20,
+        "ratings":430,
+        "product_img":[
+          "https://i.postimg.cc/nrRc3Cgf/calc1.webp",
+          "https://i.postimg.cc/bYBhFcdP/calc2.webp",
+          "https://i.postimg.cc/mDcsT86J/calc3.webp"
+
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":6,
+        "brand_name":"Diataal",
+        "product_id":7,
+        "product_name":"Diataal D Cap 10'S",
+        "old_price":120,
+        "new_price":91,
+        "offer":24,
+        "ratings":45,
+        "product_img":[
+            "https://i.postimg.cc/j5kFvftb/diatal1.webp",
+            "https://i.postimg.cc/wBWz87gW/diatal2.webp",
+            "https://i.postimg.cc/PxBBTDcM/diatal3.webp",
+            "https://i.postimg.cc/BbHR66ff/diatal4.webp",
+            "https://i.postimg.cc/9FHvkGym/diatal5.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":8,
+        "product_name":"Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+        "old_price":699,
+        "new_price":384,
+        "offer":45,
+        "ratings":313,
+        "product_img":[
+            "https://i.postimg.cc/J4JBrWy3/live5.webp",
+            "https://i.postimg.cc/VLydHH7J/live6.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":7,
+        "brand_name":"Oziva",
+        "product_id":9,
+        "product_name":"Oziva Plant Based Omega 369, 60 Capsules (1000mg Vegan Omega, Fatty Acids)",
+        "old_price":499,
+        "new_price":410,
+        "offer":24,
+        "ratings":45,
+        "product_img":[
+          "https://i.postimg.cc/hjd7XFyq/omega1.webp",
+          "https://i.postimg.cc/XNKpmktx/omega3.webp",
+          "https://i.postimg.cc/vHpkn5ZF/omega2.webp"
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":8,
+        "brand_name":"EverHerb",
+        "product_id":10,
+        "product_name":"Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of 60",
+        "old_price":599,
+        "new_price":311,
+        "offer":48,
+        "ratings":289,
+        "product_img":[
+            "https://i.postimg.cc/63rnHJdf/ever1.webp",
+            "https://i.postimg.cc/yNP7nLDS/ever2.webp",
+            "https://i.postimg.cc/k4H3hzqD/ever3.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":3,
+        "brand_name":"Pharmeasy",
+        "product_id":11,
+        "product_name":"Pharmeasy Vitamin B Complex With Folic Acid - Improves Energy - Heart & Eye Health - Bottle Of 6",
+        "old_price":649,
+        "new_price":324,
+        "offer":50,
+        "ratings":"",
+        "product_img":[
+        "https://i.postimg.cc/m2BfpYGY/bcom1.webp",
+        "https://i.postimg.cc/1XyCBKN4/bcom2.webp",
+        "https://i.postimg.cc/13bv2SNk/bcom3.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":7,
+        "brand_name":"Oziva",
+        "product_id":12,
+        "product_name":"Oziva Plant Based Omega Multi, 30 Capsules | Better Immunity, Brain & Heart Health",
+        "old_price":999,
+        "new_price":999,
+        "offer":"",
+        "ratings":45,
+        "product_img":[
+            "https://i.postimg.cc/xd4NtjJm/oziva5.webp",
+            "https://i.postimg.cc/DwfWh41s/oziva6.webp",
+            "https://i.postimg.cc/gksJgc10/oziva8.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":13,
+        "product_name":"Liveasy Wellness Vitamin C (990mg) With Zinc (10mg) - Powerful Immunity Booster - 60 Veg Tablets",
+        "old_price":799,
+        "new_price":399,
+        "offer":50,
+        "ratings":121,
+        "product_img":[
+          "https://i.postimg.cc/fRY8GFjk/liv7.webp",
+          "https://i.postimg.cc/FzfZDnHr/liv9.webp",
+          "https://i.postimg.cc/t4dzS6px/liv10.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":9,
+        "brand_name":"Ostocalcium",
+        "product_id":14,
+        "product_name":"Ostocalcium B12 Suspension (Banana Flavor Syrup - 200ml)",
+        "old_price":166,
+        "new_price":144,
+        "offer":15,
+        "ratings":53,
+        "product_img":[
+            "https://i.postimg.cc/MZPZB3Bc/os1.webp",
+            "https://i.postimg.cc/59R1yYcL/os2.webp",
+            "https://i.postimg.cc/j5j0dKZM/os3.webp",
+            "https://i.postimg.cc/brKKTn85/os4.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":10,
+        "brand_name":"Maxirich",
+        "product_id":15,
+        "product_name":"Maxirich Multivitamin & Minerals Sofgels Strip Of 10",
+        "old_price":110,
+        "new_price":49,
+        "offer":55,
+        "ratings":261,
+        "product_img":[
+           "https://i.postimg.cc/9Q4skJzn/max1.webp",
+           "https://i.postimg.cc/t4VmkJM0/max2.webp",
+           "https://i.postimg.cc/L4CCMjdK/max3.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":6,
+        "brand_name":"Pharmeasy",
+        "product_id":16,
+        "product_name":"Pharmeasy Vitamin D3 - Supports Bone Health - Helps In Absorption Of Calcium - Bottle Of 60",
+        "old_price":649,
+        "new_price":584,
+        "offer":10,
+        "ratings":13,
+        "product_img":[
+            "https://i.postimg.cc/GtK4TvDk/phvit1.webp",
+            "https://i.postimg.cc/132fFm8Y/phvit2.webp",
+            "https://i.postimg.cc/fLZW7JD5/phvit3.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":11,
+        "brand_name":"Depura",
+        "product_id":17,
+        "product_name":"Depura Cal, Calcium And Vitamin D3 1000 Iu Tablets, Improves Bones Health, Prevents Osteoporosi",
+        "old_price":159,
+        "new_price":127,
+        "offer":20,
+        "ratings":59,
+        "product_img":[
+            "https://i.postimg.cc/Hk6WFks6/depura1.webp",
+            "https://i.postimg.cc/2jTz15nr/depura2.webp",
+            "https://i.postimg.cc/4dNSqXyQ/depura3.webp",
+            "https://i.postimg.cc/cC32MX6p/depura4.webp",
+            "https://i.postimg.cc/Bb5Nnyjn/depura5.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":6,
+        "brand_name":"Diataal",
+        "product_id":18,
+        "product_name":"Diataal Capsule 15'S",
+        "old_price":105,
+        "new_price":81,
+        "offer":22,
+        "ratings":14,
+        "product_img":[
+           "https://i.postimg.cc/G2tjvQXb/dia1.webp",
+           "https://i.postimg.cc/PNszskTq/dia2.webp",
+           "https://i.postimg.cc/QdqPbfJ7/dia3.webp",
+           "https://i.postimg.cc/d01W9w1M/dia4.webp",
+           "https://i.postimg.cc/wT2c4Zn9/dia5.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":3,
+        "brand_name":"Pharmeasy",
+        "product_id":19,
+        "product_name":"Pharmeasy Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 60",
+        "old_price":699,
+        "new_price":419,
+        "offer":40,
+        "ratings":35,
+        "product_img":[
+          "https://i.postimg.cc/HxhXYqDb/mul1.webp",
+          "https://i.postimg.cc/FK2kwjjx/mul2.webp",
+          "https://i.postimg.cc/v8PbBGNJ/mul3.webp"
+            
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":20,
+        "product_name":"Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 90",
+        "old_price":999,
+        "new_price":449,
+        "offer":49,
+        "ratings":459,
+        "product_img":[
+            "https://i.postimg.cc/yYjDPqWB/limul.webp",
+            "https://i.postimg.cc/wTjq91T8/limul1.webp",
+            "https://i.postimg.cc/Vkt3wwMP/limul2.webp",
+            "https://i.postimg.cc/g23B5DFY/limul3.webp",
+            "https://i.postimg.cc/sxtwHBTQ/limul4.webp"
+          
+
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":21,
+        "product_name":"Liveasy Wellness Immunity Pro - Vitamin C & Zinc - With Herbal Immunity Blend - 60 Tablets",
+        "old_price":799,
+        "new_price":279,
+        "offer":70,
+        "ratings":450,
+        "product_img":[
+            "https://i.postimg.cc/LsxdCTLJ/imm1.webp",
+            "https://i.postimg.cc/kXWgj04D/imm2.webp",
+            "https://i.postimg.cc/jq7x5pyv/imm3.webp",
+            "https://i.postimg.cc/fTQw08Ks/imm4.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":8,
+        "brand_name":"EverHerb",
+        "product_id":22,
+        "product_name":"Everherb (By Pharmeasy) Moringa (Drum Stick) - Immunity Booster Capsules - Natural Multivitamin - Bottle Of 60",
+        "old_price":599,
+        "new_price":329,
+        "offer":45,
+        "ratings":49,
+        "product_img":[
+         "https://i.postimg.cc/pL2Fbfpf/ev1.webp",
+         "https://i.postimg.cc/d3Y0RFC2/ev2.webp",
+         "https://i.postimg.cc/rsjqSrMT/ev3.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":23,
+        "product_name":"Liveasy Wellness Daily Protein - Provides Energy & Vitality - Jar Of 400 Gram",
+        "old_price":899,
+        "new_price":449,
+        "offer":50,
+        "ratings":359,
+        "product_img":[
+        "https://i.postimg.cc/c4tDtNm9/livd1.webp",
+        "https://i.postimg.cc/hj3rhC7R/livd2.webp",
+        "https://i.postimg.cc/X79zDbCZ/livd3.webp",
+        "https://i.postimg.cc/6qnYSrys/livd4.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":24,
+        "product_name":"Liveasy Wellness Iron+Folic Acid With Zinc, Vitamin C&B12 - Maintains Overall Health - Bottle Of 60",
+        "old_price":599,
+        "new_price":299,
+        "offer":49,
+        "ratings":433,
+        "product_img":[
+           "https://i.postimg.cc/3RK8W1Q1/acidliv.webp",
+           "https://i.postimg.cc/t4Wp5wXD/acidliv1.webp",
+           "https://i.postimg.cc/Rh2x1Qyj/acidliv2.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":12,
+        "brand_name":"Himalaya",
+        "product_id":25,
+        "product_name":"Himalaya Geriforte Tablets - 100'S",
+        "old_price":140,
+        "new_price":118,
+        "offer":14,
+        "ratings":19,
+        "product_img":[
+           "Himalaya Geriforte Tablets - 100'S",
+           "https://i.postimg.cc/Yq1m4X5K/2himalaya.webp",
+           "https://i.postimg.cc/PfbtYB54/3himalaya.webp",
+           "https://i.postimg.cc/GmWNMmMs/4himalaya.webp",
+           "https://i.postimg.cc/zfkjnz4N/5himalaya.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":13,
+        "brand_name":"COQ",
+        "product_id":26,
+        "product_name":"Coq Forte Cellular Energy Capsule 10'S",
+        "old_price":807,
+        "new_price":645,
+        "offer":20,
+        "ratings":199,
+        "product_img":[
+          "https://i.postimg.cc/c1T5Ymwj/01coq.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":10,
+        "brand_name":"Maxirich",
+        "product_id":27,
+        "product_name":"Maxirich Multivitamin & Minerals Sofgels Bottle Of 30",
+        "old_price":280,
+        "new_price":173,
+        "offer":20,
+        "ratings":59,
+        "product_img":[
+            "https://i.postimg.cc/pTPMVdMn/1maxi.webp",
+            "https://i.postimg.cc/mZXWRRXt/2maxi.webp",
+            "https://i.postimg.cc/wBcnrdRx/2maxi2.webp",
+            "https://i.postimg.cc/260MzFxP/2maxi3.webp",
+            "https://i.postimg.cc/3xbZJfMj/2maxi4.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":14,
+        "brand_name":"Ferradol",
+        "product_id":28,
+        "product_name":"Ferradol Food Supplement - 450g",
+        "old_price":313,
+        "new_price":229,
+        "offer":13,
+        "ratings":259,
+        "product_img":[
+        "https://i.postimg.cc/6QFJRhZn/1ferra1.webp",
+        "https://i.postimg.cc/nhL6PWYq/1ferra2.webp",
+        "https://i.postimg.cc/Kv0WBNSj/1ferra3.webp",
+        "https://i.postimg.cc/jd38LSPJ/1ferra4.webp",
+        "https://i.postimg.cc/MHKDpCGD/1ferra5.webp",
+        "https://i.postimg.cc/2ycxb0bf/1ferra6.webp",
+        "https://i.postimg.cc/bJYbxQjY/1ferra7.webp",
+        "https://i.postimg.cc/VNmbwjv9/1ferra9.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":9,
+        "brand_name":"Ostocalcium",
+        "product_id":29,
+        "product_name":"Ostocalcium B12 Suspension (Lemon Lime Flavor Syrup - 200ml)",
+        "old_price":151,
+        "new_price":128,
+        "offer":19,
+        "ratings":29,
+        "product_img":[
+            "https://i.postimg.cc/3wq9n83D/1octoq.webp",
+            "https://i.postimg.cc/T3XzJctX/1octo1.webp",
+            "https://i.postimg.cc/ncq5rDpS/1octo2.webp",
+            "https://i.postimg.cc/qMHbPvys/1octo3.webp",
+            "https://i.postimg.cc/mgbdrpdh/1octo5.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":15,
+        "brand_name":"Bold Care",
+        "product_id":30,
+        "product_name":"Bold Care Extend Delay Spray For Men - With Lidocaine 10% (20g)",
+        "old_price":330,
+        "new_price":303,
+        "offer":8,
+        "ratings":659,
+        "product_img":[
+           "https://i.postimg.cc/SxdmX5kP/1bold1.webp",
+           "https://i.postimg.cc/jdrTMKj9/1bold2.webp",
+           "https://i.postimg.cc/y8YwGNCf/1bold3.webp",
+           "https://i.postimg.cc/wMprQqkQ/1bold4.webp",
+           "https://i.postimg.cc/XYzDDc8J/1bold5.webp",
+           "https://i.postimg.cc/XJM1njt6/1bold6.webp",
+           "https://i.postimg.cc/mkBdFdbd/1bold7.webp"
+          
+
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":8,
+        "brand_name":"EverHerb",
+        "product_id":31,
+        "product_name":"Everherb (By Pharmeasy) Jointcare - Blend Of 9 Powerful Herbs - Joint & Bone Health - Bottle Of 60 Tablets",
+        "old_price":999,
+        "new_price":529,
+        "offer":49,
+        "ratings":429,
+        "product_img":[
+            "https://i.postimg.cc/sXYzr06K/1ever.webp",
+            "https://i.postimg.cc/Mpn8TG3n/1ever2.webp",
+            "https://i.postimg.cc/gjgfc9vy/1ever3.webp",
+            "https://i.postimg.cc/HnvhDwgB/1ever4.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":32,
+        "product_name":"Liveasy Wellness Joint Support - Maintains Joints Mobility - Bone & Joint Health - Bottle Of 60",
+        "old_price":799,
+        "new_price":399,
+        "offer":49,
+        "ratings":243,
+        "product_img":[
+        "https://i.postimg.cc/gJnMywRh/1liv1.webp",
+        "https://i.postimg.cc/GhkXjnBX/1liv2.webp",
+        "https://i.postimg.cc/QMnmMXPd/1liv3.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":16,
+        "brand_name":"Unived",
+        "product_id":33,
+        "product_name":"Unived Wholefood Multivitamin For Men - 60 Capsules",
+        "old_price":1200,
+        "new_price":999,
+        "offer":12,
+        "ratings":49,
+        "product_img":[
+            "https://i.postimg.cc/g2CwYjqD/01uni1.webp",
+            "https://i.postimg.cc/FRDCtM5j/01uni2.webp",
+            "https://i.postimg.cc/nLkMJkd4/01uni3.webp",
+            "https://i.postimg.cc/FH2sX6gk/01uni4.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":13,
+        "brand_name":"COQ",
+        "product_id":34,
+        "product_name":"Coq 30mg Cellular Energy Health Supplement Capsules Strip Of 10",
+        "old_price":394,
+        "new_price":335,
+        "offer":15,
+        "ratings":159,
+        "product_img":[
+           "https://i.postimg.cc/mgtCwhS3/1coq.webp",
+           "https://i.postimg.cc/fTkV4p0D/1coq1.webp",
+           "https://i.postimg.cc/MKjzmSQM/1coq2.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":17,
+        "brand_name":"Mankind",
+        "product_id":35,
+        "product_name":"Mankind Health Ok Multi Vitamin, Multimineral With Ginseng Immunity And Mental Alertness 30 Tablets",
+        "old_price":"",
+        "new_price":300,
+        "offer":49,
+        "ratings":14,
+        "product_img":[
+            "https://i.postimg.cc/BQwMsrYg/1healthok.webp",
+            "https://i.postimg.cc/sXc4LqG5/2healthok2.webp",
+            "https://i.postimg.cc/0267GbnY/2healthok3.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":102,
+        "subcategory_name":"Appliances",
+        "brand_id":17,
+        "brand_name":"Gatsby",
+        "product_id":36,
+        "product_name":"Gatsby Hair Styling Wax Power & Spikes 25gm",
+        "old_price":90,
+        "new_price":74,
+        "offer":17,
+        "ratings":49,
+        "product_img":[
+         "https://i.postimg.cc/dtmnZ7V5/01gats.webp",
+         "https://i.postimg.cc/bwmTLKbb/01gats1.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":102,
+        "subcategory_name":"Appliances",
+        "brand_id":18,
+        "brand_name":"Sanfy",
+        "product_id":37,
+        "product_name":"Selfly Hair Electric Straightening Brush With Ceramic Plating, For Straight & Frizz Free Hair",
+        "old_price":999,
+        "new_price":749,
+        "offer":19,
+        "ratings":359,
+        "product_img":[
+           "https://i.postimg.cc/bNJHrm4w/1sanfy.webp",
+           "https://i.postimg.cc/QdKQkH8L/1sanfy2.webp",
+           "https://i.postimg.cc/FznS0Qws/1sanfy3.webp"
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":102,
+        "subcategory_name":"Appliances",
+        "brand_id":17,
+        "brand_name":"Gatsby",
+        "product_id":38,
+        "product_name":"Gatsby Hair Spray Set & Keep Ultra Hard 250ml",
+        "old_price":270,
+        "new_price":224,
+        "offer":17,
+        "ratings":39,
+        "product_img":[
+            "https://i.postimg.cc/zvjrQzq8/1spray1.webp",
+            "https://i.postimg.cc/pL3gqhKK/1spray2.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":19,
+        "brand_name":"Lifelong",
+        "product_id":40,
+        "product_name":"Lifelong Llpcm05 Cordless Beard Trimmer,1 Year Warranty (Black) Runtime: 50 Mins",
+        "old_price":1500,
+        "new_price":615,
+        "offer":59,
+        "ratings":145,
+        "product_img":[
+         "https://i.postimg.cc/KjrMsMKj/01lifelong.webp",
+         "https://i.postimg.cc/L6DPtjK0/01lifelong1.webp",
+         "https://i.postimg.cc/bYHSP1JN/01lifelong2.webp",
+         "https://i.postimg.cc/T3Sp09kQ/01lifelong3.webp"
+          
+
+        ]
+    },
+    {
+        "category_id":1,
+        "category_name":"Personal Care",
+        "subcategory_id":101,
+        "subcategory_name":"Men Care",
+        "brand_id":4,
+        "brand_name":"Liveasy",
+        "product_id":20,
+        "product_name":"Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of 90",
+        "old_price":999,
+        "new_price":449,
+        "offer":49,
+        "ratings":459,
+        "product_img":[
+            "https://i.postimg.cc/yYjDPqWB/limul.webp",
+            "https://i.postimg.cc/wTjq91T8/limul1.webp",
+            "https://i.postimg.cc/Vkt3wwMP/limul2.webp",
+            "https://i.postimg.cc/g23B5DFY/limul3.webp",
+            "https://i.postimg.cc/sxtwHBTQ/limul4.webp"
+          
+
+        ]
+    }
+
+]
